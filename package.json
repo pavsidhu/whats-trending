@@ -1,0 +1,13 @@
+{
+  "name": "trendly",
+  "version": "1.0.0",
+  "description": "See what's trending on Twitter via Alexa",
+  "main": "index.js",
+  "repository": "https://github.com/pavsidhu/trendly.git",
+  "author": "Pav Sidhu <pav@pavsidhu.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "twit": "^2.2.9"
+  }
+}
